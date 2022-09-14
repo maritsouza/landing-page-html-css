@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Maria Souza</h1>
-<h3 align="center">Estudante de desenvolvimento de front-end.</h3>
+<h3 align="center">Estudante de desenvolvimento front-end.</h3>
 
 - 🔭 Atualmente estou estudando HTML e CSS [Landing Page](https://github.com/maritsouza/landing-page-html-css)
 
